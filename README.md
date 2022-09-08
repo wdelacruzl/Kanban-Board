@@ -1,5 +1,8 @@
 # Kanban
 
+This is a simple kanban board using Angular
+![This is a picture of how the application looks like](/kanban/images/kanban%20screenshot.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
